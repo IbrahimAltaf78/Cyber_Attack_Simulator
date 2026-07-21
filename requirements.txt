@@ -1,0 +1,12 @@
+# requirements.txt
+# All core dependencies are Python built-ins — no pip install needed!
+# Optional: install these for enhanced features
+
+# Built-in (no install):
+#   tkinter   - GUI
+#   sqlite3   - Database
+#   hashlib   - Password hashing
+#   os, random, time - Standard library
+
+# Optional enhancements:
+# pillow     - For adding images/icons (pip install pillow)
